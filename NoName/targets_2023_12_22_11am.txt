@@ -1,4 +1,3 @@
-
 {"targets":[
 {"target_id":"642fe3c5318a95e39142647a","request_id":"642c31e545eef2551df4c284","host":"www.hsl.fi","ip":"52.137.3.174","type":"http","method":"GET","port":443,"use_ssl":true,"path":"/haku/?query=$_1\u0026page=1","body":{"type":"","value":""},"headers":null},
 {"target_id":"642fe3c5318a95e39142647a","request_id":"642c31e545eef2551df4c286","host":"www.hsl.fi","ip":"52.137.3.174","type":"http","method":"","port":443,"use_ssl":true,"path":"/sv/sok?query=$_1\u0026page=1","body":{"type":"","value":""},"headers":null},
